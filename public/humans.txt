@@ -1,0 +1,11 @@
+/* TEAM */
+Developer: Ouahib El Hanchi
+Site: https://www.ouahibelhanchi.me
+Twitter: @ouahibelhanchi
+Location: Tangier, Morocco
+
+/* SITE */
+Last update: 2017/09/19
+Standards: HTML5, CSS3
+Software: Vim, Gulp
+Version: 1.0.0
