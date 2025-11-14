@@ -1,7 +1,6 @@
 /* TEAM */
 Developer: Ouahib El Hanchi
 Site: https://www.ouahibelhanchi.me
-Twitter: @ouahibelhanchi
 Location: Tangier, Morocco
 
 /* SITE */
